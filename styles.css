@@ -1,0 +1,123 @@
+html {
+    background-image: url(spikes.png);
+    background-repeat: repeat;
+    margin: 20px;
+}
+
+header, main {
+    border: whitesmoke 6px ridge;
+}
+
+
+.h1 {
+    font-family: "Amatic SC";
+    font-weight: bold;
+    font-size: 72px;
+    margin:8px;
+
+}
+
+.h2 {
+    font-family: "Amatic SC";
+    font-size: 40px;
+    font-weight: bold;
+    margin: 8px;
+    clear: left;
+}
+
+.h3 {
+    font-family: "Amatic SC";
+    font-size: 24px;
+    font-weight: 700;
+    clear: left;
+    margin:8px;
+}
+
+.h5 {
+    font-family: "Amatic SC";
+    font-size: 24px;
+    font-weight: 400;
+    margin: 8px;
+}
+
+header h1 {
+    text-transform: uppercase;
+    text-align: center;
+    margin: 10px auto;
+}
+
+nav ul{
+    text-align: center;
+}
+
+nav ul li{
+    background-color: rgb (173, 216, 230);
+    display: inline;
+    padding: 60px;  
+}
+
+.ref {
+    font-family: "Space Mono";
+    font-size: 16px;
+    font-style: normal;
+    color: dimgray;
+}
+
+.colorbox {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    border: whitesmoke 6px ridge;    
+}
+
+.LightBlue {
+    background-color: LightBlue;
+}
+
+.LightPink {
+    background-color: lightpink;
+}
+
+.Plum {
+    background-color: plum;
+}
+
+.fonts {
+    float: left;
+    width: auto;
+    padding: 0 20px;
+}
+
+.normal {
+    font-weight: 400;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.amatic {
+    font-family: "Amatic SC";
+}
+
+.space {
+    font-family: "Space Mono";
+}
+
+.pt {
+    font-family: "PT Serif";
+}
+
+.description {
+    font-family: "PT Serif";
+    font-size: 16px;
+}
+
+.top {
+    text-decoration: underline;
+}
+
